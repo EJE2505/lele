@@ -1,4 +1,4 @@
-# GXREX
+
 
 Tool Sederhana Untuk Crack Instagram
 
@@ -22,10 +22,10 @@ pip install requests
 
 pip install futures
 
-git clone https://github.com/Mr404NotFoundd/GXREX
+git clone https://github.com/mentixxx-jo/lele
 
 Cara Menjalankan Scripts
 
-cd GXREX
+cd newscighe
 
 python instagram.py
